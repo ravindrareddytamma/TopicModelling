@@ -1,11 +1,3 @@
-library(dplyr)
-library(data.table)
-library(stats)
-library(tibble)
-library(tm)
-library(tidyr)
-library(wordcloud)
-
 #' @title func
 #' @description  Creates a DTM Data Frame for your text data based on specified parametes
 #' @param text
