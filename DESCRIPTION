@@ -1,0 +1,11 @@
+Package: TopicModelling
+Type: Package
+Title: Categorize your Text into Categories
+Version: 0.1.0
+Author: Ravindra Reddy Tamma
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Use this package to build a customized way of Topic Model for your Text Data
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+imports: dplyr,data.table,stats,tibble,tm,tidyr,wordcloud
